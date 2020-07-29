@@ -10,6 +10,7 @@ namespace Gitproject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("World");
         }
     }
 }
